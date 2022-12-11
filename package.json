@@ -23,7 +23,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.9",
     "@nuxtjs/axios": "^5.10.1",
     "cross-env": "^7.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "front-matter-markdown": "^0.4.4",
     "frontmatter-markdown-loader": "^3.3.0",
     "highlight.js": "^10.0.1",
