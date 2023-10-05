@@ -14,9 +14,9 @@ jobs:
           ref: stage
 
       - name: Set Node.js 12.x
-        uses: actions/setup-node@v1.1.0
+        uses: actions/setup-node@v3
         with:
-          version: 12.x
+          node-version: 12
 
       - name: npm install
         run: npm install
